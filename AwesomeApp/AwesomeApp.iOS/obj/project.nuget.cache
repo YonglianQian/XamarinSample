@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmNZk1I20c1myMZndgAyrYuiZnzIiu02+aKet+VNsF89051j3NRAnkhW+HAXkB3Iu7ElLeN+17yCJjXntosfLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abrahamq.WICRESOFT\\source\\repos\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abrahamq.WICRESOFT\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\abrahamq.WICRESOFT\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\abrahamq.WICRESOFT\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+  ],
+  "logs": []
+}
